@@ -2,32 +2,32 @@
 This is a repository contains Code of Notepad Go which is a text editor made using C++
 
 ## Loading Part
-![Screenshot (2277)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/a738e202-eadb-4a2e-b47d-e3199b99b1e7)
+![Screenshot (2277)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/65892b63-c705-4bce-985b-ae97ea1e44ff)
 
 ## Tutorials
-![Screenshot (2278)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/85c57a78-eaca-4346-a97a-7e1fa632a849)
-![Screenshot (2280)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b16e9be7-0fef-4f54-b5bd-a50a188b4eff)
-![Screenshot (2281)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/67d810d8-9ff1-4e4b-af96-b2cc151f8cd2)
-![Screenshot (2282)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/6ccdf2fa-c20a-4f67-bfd5-08dbf966782e)
-![Screenshot (2283)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/e19fa0c2-e310-4740-a52a-4b297f701585)
-![Screenshot (2284)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b1db24e7-5411-4cba-8f92-65c211f31e95)
-![Screenshot (2285)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/0d61bffc-9052-4342-b798-6d73005c43fb)
-![Screenshot (2286)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d23abe6b-76a7-4597-9f67-0bfca3845977)
-![Screenshot (2287)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/f322cfb0-64f9-4370-ae53-e77e686e9cc1)
+![Screenshot (2278)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b7ad4788-2718-4b04-896c-ead39769d8ce)
+![Screenshot (2280)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/e27872cb-dc0e-48ae-ba51-08bdda3192fe)
+![Screenshot (2281)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/27f83671-73b4-4fd3-8efb-4a6aa8777f48)
+![Screenshot (2282)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d8519b92-e47e-4fa0-afd3-f80244cd4a38)
+![Screenshot (2283)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b83b0146-63bd-4a5b-8e24-7fca02d13234)
+![Screenshot (2284)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/dffdb1d6-b662-41be-a62b-0478bf20cfba)
+![Screenshot (2285)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/74a94a8e-85f0-4eff-889c-397e16bc8378)
+![Screenshot (2286)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/6f306387-1470-428f-9ca9-7b043fd34188)
+![Screenshot (2287)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/da23975a-60ee-42bb-9051-6a585b89be13)
 
 ## Menus
-![Screenshot (2288)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/411aaa3b-dd84-49dd-8984-827619709a42)
-![Screenshot (2289)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/257a9001-3365-4fa7-84d6-755394c0e4ec)
-![Screenshot (2298)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/3449dbc5-ae7e-4f1e-b80f-a8dbf350193a)
-![Screenshot (2291)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/057ea43e-a0cc-492f-bab5-48bec90acf9a)
-![Screenshot (2290)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d4eb4daa-c8b5-484f-a4d8-027af83c538a)
+![Screenshot (2288)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d73a6fd3-5265-47d5-9803-359dfd95686f)
+![Screenshot (2289)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/04b27a83-975e-4d24-a258-5cc2273ec427)
+![Screenshot (2298)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b0ad1418-b547-46cb-a2b9-31f1bf88232f)
+![Screenshot (2291)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/c61b5edd-f5f7-48ab-8924-838ba6404756)
+![Screenshot (2290)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/275f71ce-3cef-4948-b691-231e22c312e7)
 
 
 ## Text Editor
-![Screenshot (2294)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/873dae0a-d1be-4684-babc-236cbc1aee23)
-![Screenshot (2296)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d1221d9e-d238-4c8e-a3a2-968d63c5b8b2)
-![Screenshot (2297)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/7efc666e-5521-4c98-aeac-483d16aed3f8)
+![Screenshot (2294)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/34ffc43c-b9a6-41db-96a7-9a7e6fc47c4f)
+![Screenshot (2296)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/d3df9908-66d1-4afa-91bf-7cc04f84b71f)
+![Screenshot (2297)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/b3de66e4-30b4-410f-936a-816d214b918a)
 
 ## Help
-![Screenshot (2292)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/059a43ed-09e6-4a1b-8ddf-8c393975bb27)
-![Screenshot (2293)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/2fed4daa-d4c2-4123-92c2-1ef431e97bd7)
+![Screenshot (2292)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/6a4cf0f4-98b2-425b-aa21-a19d1aad3d30)
+![Screenshot (2293)](https://github.com/debugger-snjy/Notepad-Go/assets/73947620/ff458f36-5af5-4e1a-ba26-1ee1a889c2cd)
